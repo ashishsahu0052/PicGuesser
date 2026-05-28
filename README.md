@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src=".screenshots/logo.png" width="120"/>
+<img src="./screenshots/logo.png" width="120"/>
 
 # 🖌️ PICGUESS
 
